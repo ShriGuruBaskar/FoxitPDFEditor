@@ -1,2 +1,0 @@
-# FoxitPDFEditor
-FoxitPDFEditor
